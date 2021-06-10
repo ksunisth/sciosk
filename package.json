@@ -1,0 +1,24 @@
+{
+  "name": "sunisth",
+  "version": "1.0.0",
+  "description": "A personalized quiz about the marvelous Sunisth Kumar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksunisth/sunisth.git"
+  },
+  "keywords": [
+    "sunisth",
+    "sunisthkumar",
+    "ksunisth"
+  ],
+  "author": "Sunisth Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksunisth/sunisth/issues"
+  },
+  "homepage": "https://github.com/ksunisth/sunisth#readme"
+}

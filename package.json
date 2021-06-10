@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/ksunisth/sunisth/issues"
   },
-  "homepage": "https://github.com/ksunisth/sunisth#readme"
+  "homepage": "https://github.com/ksunisth/sunisth#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-progress": "^2.1.1",
+    "qoa": "^0.2.0"
+  }
 }

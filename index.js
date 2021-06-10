@@ -3,9 +3,9 @@ const _cliProgress = require('cli-progress');
 const qoa = require('qoa');
 const {log} = console;
 
-// log(chalk.red(" ▒█▀▀▀█ ▒█░▒█ ▒█▄░▒█ ▀█▀ ▒█▀▀▀█ ▀▀█▀▀ ▒█░▒█ "));
-// log(chalk.red(" ░▀▀▀▄▄ ▒█░▒█ ▒█▒█▒█ ▒█░ ░▀▀▀▄▄ ░▒█░░ ▒█▀▀█ "));
-// log(chalk.red(" ▒█▄▄▄█ ░▀▄▄▀ ▒█░░▀█ ▄█▄ ▒█▄▄▄█ ░▒█░░ ▒█░▒█"));
+log(chalk.red(" ▒█▀▀▀█ ▒█░▒█ ▒█▄░▒█ ▀█▀ ▒█▀▀▀█ ▀▀█▀▀ ▒█░▒█ "));
+log(chalk.red(" ░▀▀▀▄▄ ▒█░▒█ ▒█▒█▒█ ▒█░ ░▀▀▀▄▄ ░▒█░░ ▒█▀▀█ "));
+log(chalk.red(" ▒█▄▄▄█ ░▀▄▄▀ ▒█░░▀█ ▄█▄ ▒█▄▄▄█ ░▒█░░ ▒█░▒█"));
 log();
 log(chalk.bold("Welcome to Sunisth, the best npm package about Sunisth Kumar."));
 

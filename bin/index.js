@@ -7,11 +7,14 @@ const {log} = console;
 
 const ques = require('../lib/questions')
 
-log(chalk.red(" ▒█▀▀▀█ ▒█░▒█ ▒█▄░▒█ ▀█▀ ▒█▀▀▀█ ▀▀█▀▀ ▒█░▒█ "));
-log(chalk.red(" ░▀▀▀▄▄ ▒█░▒█ ▒█▒█▒█ ▒█░ ░▀▀▀▄▄ ░▒█░░ ▒█▀▀█ "));
-log(chalk.red(" ▒█▄▄▄█ ░▀▄▄▀ ▒█░░▀█ ▄█▄ ▒█▄▄▄█ ░▒█░░ ▒█░▒█"));
+log(chalk.red(" ░██████╗░█████╗░██╗░█████╗░░██████╗██╗░░██╗ "));
+log(chalk.red(" ██╔════╝██╔══██╗██║██╔══██╗██╔════╝██║░██╔╝ "));
+log(chalk.red(" ╚█████╗░██║░░╚═╝██║██║░░██║╚█████╗░█████═╝░ "));
+log(chalk.red(" ░╚═══██╗██║░░██╗██║██║░░██║░╚═══██╗██╔═██╗░ "));
+log(chalk.red(" ██████╔╝╚█████╔╝██║╚█████╔╝██████╔╝██║░╚██╗ "));
+log(chalk.red(" ╚═════╝░░╚════╝░╚═╝░╚════╝░╚═════╝░╚═╝░░╚═╝ "));
 log();
-log(chalk.bold("Welcome to Sunisth, the best npm package about Sunisth Kumar."));
+log(chalk.bold("Welcome to Sciosk, the best npm package about Sunisth Kumar."));
 
 
 (async function(){

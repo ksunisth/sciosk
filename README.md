@@ -1,4 +1,6 @@
 ![alt text](img/logo.png "Sciosk")
+--
+{Scio - Know (in Latin), sk - Sunisth Kumar}
 
 ## Quick Start
 Package installation can be done with [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):

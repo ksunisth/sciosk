@@ -1,11 +1,8 @@
 {
   "name": "sciosk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A personalized quiz about the marvelous Sunisth Kumar. Scio - Know (in Latin), sk - Sunisth Kumar",
-  "main": "./lib/questions.js",
-  "bin": {
-    "sciosk": "./bin/index.js"
-  },
+  "main": "./bin/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ksunisth/sunisth.git"

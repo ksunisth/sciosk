@@ -1,6 +1,6 @@
 {
   "name": "sciosk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personalized quiz about the marvelous Sunisth Kumar. Scio - Know (in Latin), sk - Sunisth Kumar",
   "main": "./bin/index.js",
   "repository": {

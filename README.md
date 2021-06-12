@@ -1,4 +1,5 @@
 ![alt text](img/logo.png "Sciosk")
+[![Build](https://travis-ci.org/ksunisth/sciosk.svg?branch=main)](https://travis-ci.org/github/ksunisth/sciosk)
 --
 {Scio - Know (in Latin), sk - Sunisth Kumar}
 

@@ -26,18 +26,18 @@ log(chalk.bold("Welcome to Sciosk, the best npm package about Sunisth Kumar."));
     }
 })();
 
-async function round(){
+async function round() {
     qoa.clearScreen();
     log('\n')
     let used = [];
     let score = 0;
 
     for (let i = 1; i <= 7; i++) {
-        let rand = Math.floor(Math.random() * ques.length);
+        let rand = Math.floor(Math.random() * ques.qs.length);
 
-        if(!(rand in used)) {
+        if (!used.includes(rand)) {
             log(chalk.whiteBright.bgRed('  Question', i, '/7:  '));
-            let question = qoa.prompt([quess.qs[rand]]);
+            let question = qoa.prompt([ques.qs[rand]]);
             let answer = await question;
 
             if (ques.qs[rand].type === 'input') {
